@@ -55,15 +55,6 @@ the `data` directory; you can access it at `/data/<filename>.json`.
 The repo includes jQuery, Backbone, Underscore, and RequireJS. If there's other
 stuff you'd find useful, you can put it in the `lib` directory.
 
-## I want to see the answers!
-
-First, bear in mind that looking up the answers is going to teach you a whole
-lot less than you'll learn by working on the tests, even if you occasionally get
-stuck. I'd recommend only looking at the answers once you have the tests
-passing, to see if there's another way you could have approached the
-problem. When you're ready to look at the answers, you can find them
-[here](https://github.com/rmurphey/js-assessment-answers); I'll do my best to
-keep them up to date.
 
 ## I hate \<some technology you've chosen\>
 
